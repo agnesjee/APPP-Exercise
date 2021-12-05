@@ -1,0 +1,1 @@
+{'Pinky': ['Pinky', 'Honda', 'Pink', 20000.0]}
